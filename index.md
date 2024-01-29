@@ -24,7 +24,7 @@ sections:
           url: /privacy/
   - infobar:
       title: Infobar title
-      subtitle: Subtitle
+      subtitle: Hello World
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
@@ -34,6 +34,10 @@ sections:
       id: textcards
       description: Text card description
       cards:
+        - title: Hello World
+          description: Card description
+          linktext: Learn more
+          url: ""
         - title: Card
           description: Card description
           linktext: Learn more
