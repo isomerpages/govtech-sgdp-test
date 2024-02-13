@@ -2,6 +2,7 @@ collections:
   example-folder:
     output: true
     order:
+      - Example Title 8.md
       - Example Title 7.md
       - Example Title 6.md
       - Example Title 5.md
